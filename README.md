@@ -18,3 +18,6 @@ __1\. [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06
 __2\. [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)__
 
 __3\. [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)__
+
+## Others
+__1\. [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)__

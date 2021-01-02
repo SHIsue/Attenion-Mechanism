@@ -20,4 +20,4 @@ __2\. [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)__
 __3\. [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)__
 
 ## Others
-__1\. [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)  CVPR 2017 __ 
+__1\. CVPR 2017: [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)__ 

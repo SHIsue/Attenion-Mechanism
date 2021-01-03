@@ -7,6 +7,8 @@ __2\. [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)__
 
 __3\. [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)__
 
+__4\. CVPR 2017 (mixed attention mechanism): [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)__ 
+
 ## Spatial Attention
 __1\. [Stacked Attention Networks for Image Question Answering](https://arxiv.org/pdf/1511.02274.pdf)__
 
@@ -20,4 +22,4 @@ __2\. [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)__
 __3\. [Selective Kernel Networks](https://arxiv.org/pdf/1903.06586.pdf)__
 
 ## Others
-__1\. CVPR 2017 (mixed attention mechanism): [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)__ 
+
